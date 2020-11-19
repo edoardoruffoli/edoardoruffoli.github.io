@@ -479,7 +479,7 @@ section .title::after{
 }
 .contact .contact-content .info .sub-title a:hover {
     cursor: pointer;
-    color: rgb(95, 95, 95);
+    color: rgb(128, 128, 128);
 }
 .contact .right form .fields{
     display: flex;
