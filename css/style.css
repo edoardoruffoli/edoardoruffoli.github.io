@@ -167,7 +167,7 @@ section .title::after{
 .home{
     display: flex;
     background: url("../images/banner.jpg") no-repeat 75% 0% ;
-    width: calc(100vw - 100px);
+    width: calc(100vw);
     height: 100vh;
     background-size: cover;
     background-attachment: fixed;
