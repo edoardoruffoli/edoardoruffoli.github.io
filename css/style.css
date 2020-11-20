@@ -166,10 +166,12 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("../images/banner.jpg") no-repeat  75% 0% ;
-    background-position: 50% top;
+    background: url("../images/banner.jpg") no-repeat center ;
     background-repeat: no-repeat;
-    background-size: 70% auto;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
     height: 100vh;
     color: rgb(32, 32, 32);
     min-height: 500px;
