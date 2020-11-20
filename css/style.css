@@ -178,7 +178,7 @@ section .title::after{
     margin: auto 0 auto 30px;
 }
 .home .home-content .text-1{
-    font-size: 27px;
+    font-size: 40px;
 }
 .home .home-content .text-2{
     font-size: 75px;
@@ -186,8 +186,8 @@ section .title::after{
     margin-left: -3px;
 }
 .home .home-content .text-3{
-    font-size: 40px;
-    margin: 5px 0;
+    font-size: 25px;
+    margin: 20px 0;
 }
 .home .home-content .text-3 span{
     color: crimson;
@@ -199,7 +199,7 @@ section .title::after{
     color: #fff;
     font-size: 25px;
     padding: 12px 36px;
-    margin-top: 20px;
+    margin-top: 50px;
     font-weight: 400;
     border-radius: 6px;
     border: 2px solid crimson;
@@ -611,7 +611,7 @@ footer span a:hover{
         font-size: 70px;
     }
     .home .home-content .text-3{
-        font-size: 35px;
+        font-size: 25px;
     }
     .home .home-content a{
         font-size: 23px;
