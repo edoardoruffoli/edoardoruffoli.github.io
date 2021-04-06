@@ -441,11 +441,11 @@ section .title::after{
 
 /* contact section styling */
 .contact{
-    background: #EEEEEE;
+    background: #fff;
 }
 .contact .title::after{
     content: "get in touch";
-    background: #EEEEEE;
+    background: #fff;
 }
 .contact .contact-content .column{
     width: calc(50% - 30px);
